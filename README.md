@@ -7,4 +7,6 @@ Activity 2 screenshot:
 
 Activity 3 screenshot:
 
+![image](https://github.com/snehshah09/ECE444-F2023-Lab1/assets/52886440/55446441-a959-43bc-897c-5fa786c5c24e)
+
 Activity 4 screenshot:
